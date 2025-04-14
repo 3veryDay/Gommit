@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: gommit
+Version: 0.1
+Summary: GPT 기반 자동 커밋 메시지 생성기
+Author: YourName
+Requires-Python: >=3.7
+Requires-Dist: openai
+Requires-Dist: python-dotenv

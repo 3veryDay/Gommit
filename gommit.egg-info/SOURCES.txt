@@ -1,0 +1,7 @@
+setup.py
+gommit.egg-info/PKG-INFO
+gommit.egg-info/SOURCES.txt
+gommit.egg-info/dependency_links.txt
+gommit.egg-info/entry_points.txt
+gommit.egg-info/requires.txt
+gommit.egg-info/top_level.txt
